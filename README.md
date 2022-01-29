@@ -3,4 +3,7 @@ A repository of notebooks from unit one of bloomtech
 
 ## Subheader
 
-Wat
+## Local Development
+
+1. Open index.html in your browser.
+
